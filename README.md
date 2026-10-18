@@ -2,7 +2,7 @@
 
 A dark-cinematic, single-page portfolio built to feel like an Apple keynote crossed with a Bloomberg terminal. Not a resume on a webpage. A product experience that sells a person.
 
-**Live:** [satvikchauhan](https://satvikchauhan-rouge.vercel.app/) _(update with your actual domain)_
+**Live:** [satvikchauhan](https://satvikchauhan-rouge.vercel.app/)
 
 ---
 
@@ -124,9 +124,6 @@ vercel
 
 ---
 
-## License
-
-MIT
 
 ---
 
